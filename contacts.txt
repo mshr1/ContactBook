@@ -1,0 +1,4 @@
+Иван|+79001234567|ivan@mail.ru
+Иван|+79001234567|ivan@mail.ru
+мария|+79007654321|maria@mail.ru
+Mike|+9000000000|mike@gmail.com
